@@ -21,7 +21,7 @@ html, body {
    */
   background-attachment: fixed; }
   .cover:first-child, .cover.cover-1 {
-    background-image: url("/images/once-upon-a-time-wallpapers.jpg"); }
+    background-image: url("../images/once-upon-a-time-wallpapers.jpg"); }
     .cover:first-child .cover-title .title, .cover.cover-1 .cover-title .title {
       text-shadow: 5px 2px 10px rgba(0, 0, 0, 0.8);
       background-color: transparent;
@@ -30,13 +30,13 @@ html, body {
       padding: 20px;
       border-radius: 5px; }
   .cover.cover-2 {
-    background-image: url("/images/rumplestilltskin.jpg"); }
+    background-image: url("../images/rumplestilltskin.jpg"); }
   .cover.cover-3 {
-    background-image: url("/images/bella.jpg"); }
+    background-image: url("../images/bella.jpg"); }
   .cover.cover-4 {
-    background-image: url("/images/apple.jpg"); }
+    background-image: url("../images/apple.jpg"); }
   .cover.cover-5 {
-    background-image: url("/images/elenco.jpg"); }
+    background-image: url("../images/elenco.jpg"); }
   .cover .cover-title {
     position: absolute;
     top: 50%;

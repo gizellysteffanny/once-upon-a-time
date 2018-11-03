@@ -25,7 +25,7 @@ html, body {
    background-attachment: fixed;
 
    &:first-child, &.cover-1{
-      background-image: url('/images/once-upon-a-time-wallpapers.jpg');
+      background-image: url('../images/once-upon-a-time-wallpapers.jpg');
 
       .cover-title {
          .title {
@@ -40,19 +40,19 @@ html, body {
    }
 
    &.cover-2 {
-      background-image: url('/images/rumplestilltskin.jpg');
+      background-image: url('../images/rumplestilltskin.jpg');
    }
 
    &.cover-3 {
-      background-image: url('/images/bella.jpg');
+      background-image: url('../images/bella.jpg');
    }
 
    &.cover-4 {
-      background-image: url('/images/apple.jpg');
+      background-image: url('../images/apple.jpg');
    }
 
    &.cover-5 {
-      background-image: url('/images/elenco.jpg');
+      background-image: url('../images/elenco.jpg');
    }
 
 
