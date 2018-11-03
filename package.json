@@ -1,0 +1,22 @@
+{
+  "name": "onceuponatime",
+  "version": "1.0.0",
+  "description": "basic website effect parallax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gizellysteffanny/once-upon-a-time.git"
+  },
+  "keywords": [
+    "Parallax"
+  ],
+  "author": "Gizelly Steffanny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gizellysteffanny/once-upon-a-time/issues"
+  },
+  "homepage": "https://github.com/gizellysteffanny/once-upon-a-time#readme"
+}
