@@ -4,7 +4,7 @@
   "description": "basic website effect parallax",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "sass": "node-sass -w sass/ -o dist/css/ --recursive"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/gizellysteffanny/once-upon-a-time/issues"
   },
-  "homepage": "https://github.com/gizellysteffanny/once-upon-a-time#readme"
+  "homepage": "https://github.com/gizellysteffanny/once-upon-a-time#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.4"
+  }
 }
