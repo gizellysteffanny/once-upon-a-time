@@ -4,7 +4,8 @@
   "description": "basic website effect parallax",
   "main": "index.js",
   "scripts": {
-    "sass": "node-sass -w sass/ -o dist/css/ --recursive"
+    "sass": "node-sass -w sass/ -o dist/css/ --recursive",
+    "deploy": "gh-pages -d dist/"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,8 @@
   "homepage": "https://github.com/gizellysteffanny/once-upon-a-time#readme",
   "devDependencies": {
     "node-sass": "^4.9.4"
+  },
+  "dependencies": {
+    "gh-pages": "^2.0.1"
   }
 }
